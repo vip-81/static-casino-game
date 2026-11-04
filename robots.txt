@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+
+Disallow: /api/
+Disallow: /private/
+
+Sitemap: https://static-casino-demo.pages.dev/sitemap.xml
